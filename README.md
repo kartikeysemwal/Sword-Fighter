@@ -56,7 +56,7 @@ Brackeys: How to make a 2D game
 
 Brackeys is one of the most popular and respected channels for Unity creators.
 
-1. _ **How to build a Complete 2d platform in Unity: -** _In this tutorial, it is taught how to create a fully-featured 2D platformer. The project given with the walk the article will incorporate a number of key topics including how to make cutscenes, how to quickly build and prototype a 2D level, and how to precisely choreograph game objects using the Timeline Editor.
+2. _ **How to build a Complete 2d platform in Unity: -** _In this tutorial, it is taught how to create a fully-featured 2D platformer. The project given with the walk the article will incorporate a number of key topics including how to make cutscenes, how to quickly build and prototype a 2D level, and how to precisely choreograph game objects using the Timeline Editor.
 
 #
 
@@ -218,13 +218,13 @@ The main story line of the game is in each increasing level the power of the swo
 
 ![Player Hurt Particle Effect](/Images/image012.gif)
 
-      1. Player Attack 
+       Player Attack 
      
 ![Player Attack](/Images/image014.gif)
 
 ![Player Attack](/Images/image016.gif)
 
-7. Ground Movable Enemy
+     Ground Movable Enemy
 
 ![Ground Movable Enemy](/Images/image018.gif)
 
@@ -260,12 +260,12 @@ Hardware Configuration: Basic hardware needed
 
 It contains all the important aspects of game development which helped in difficult steps of game development process.
 
-1. CasanisPlays: - [https://www.youtube.com/user/CasanisPlays](https://www.youtube.com/user/CasanisPlays)
+2. CasanisPlays: - [https://www.youtube.com/user/CasanisPlays](https://www.youtube.com/user/CasanisPlays)
 
 A youtuber who teacher you important aspects of game development.
 
-[3] Unity Assets Store: - We can buy or get assets for free of costs.
+3. Unity Assets Store: - We can buy or get assets for free of costs.
 
-[4] Other Assets Stores: - Game 2d Art [https://www.gameart2d.com/](https://www.gameart2d.com/)
+4. Other Assets Stores: - Game 2d Art [https://www.gameart2d.com/](https://www.gameart2d.com/)
 
 CraftPix.net [https://craftpix.net/](https://craftpix.net/)
