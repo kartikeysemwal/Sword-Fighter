@@ -42,7 +42,7 @@ Make a 2d game using the Unity Engine. 2d games are easy to build but difficult 
 #
 
 
-# literature review
+# Literature Review
 
 1. _ **How to starting with 2d game development as a beginner:-** _[https://unity.com/how-to/beginner-2D-game-resources](https://unity.com/how-to/beginner-2D-game-resources)
 
@@ -198,33 +198,35 @@ The main story line of the game is in each increasing level the power of the swo
 
 **Game Screenshots**
 
-      1. **Main Menu**
+       **Main Menu**
 
-![](RackMultipart20200616-4-1oy59gn_html_ed775e6adf05914a.png)
+![Main Menu](/Images/image004.gif)
 
-      1. Options Menu
+       Options Menu
 
-![](RackMultipart20200616-4-1oy59gn_html_668cbdb660556d6b.png)
+![Options Menu](/Images/image006.gif)
 
-      1. Main Game View
+       Main Game View
 
-![](RackMultipart20200616-4-1oy59gn_html_c18a07baff11a034.png)
+![Main Game View](/Images/image008.gif)
 
-      1. Pause Menu
+       Pause Menu
 
-![](RackMultipart20200616-4-1oy59gn_html_40e42fa300cc5ff3.png)
+![Pause Menu](/Images/image010.gif)
 
-      1. Player Hurt Particle Effect
+       Player Hurt Particle Effect
 
-![](RackMultipart20200616-4-1oy59gn_html_9571b5299dd538e4.png)
+![Player Hurt Particle Effect](/Images/image012.gif)
 
-      1. Player Attack ![](RackMultipart20200616-4-1oy59gn_html_ba212893bf88ee6f.png)
+      1. Player Attack 
+     
+![Player Attack](/Images/image014.gif)
 
-![](RackMultipart20200616-4-1oy59gn_html_5dfcc7669e763d56.png)
+![Player Attack](/Images/image016.gif)
 
 7. Ground Movable Enemy
 
-![](RackMultipart20200616-4-1oy59gn_html_52db323f71b1a738.png)
+![Ground Movable Enemy](/Images/image018.gif)
 
 # System Requirements: (Software/Hardware)
 
@@ -247,7 +249,7 @@ Hardware Configuration: Basic hardware needed
 
 # Pert Chart (Schedule)
 
-![](RackMultipart20200616-4-1oy59gn_html_111268f686e6136.png)
+![Pert Chart](/Images/image020.gif)
 
 #
 
